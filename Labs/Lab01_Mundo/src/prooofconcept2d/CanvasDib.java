@@ -38,6 +38,7 @@ public class CanvasDib extends Canvas{
          g.fillOval(getX(), getY(), 60, 60); //Dibuja un óvalo
          if (sample == null) sample = cargarImagen("./images/sample.png");
          g.drawImage(sample, x, 110, this);
+
     }   
 
     @Override
