@@ -36,6 +36,7 @@ public class FrmGame extends JFrame{
             try {
                 Thread.sleep(100);
                 c.repaint();
+               
             } catch (InterruptedException ex) {
                 Logger.getLogger(FrmGame.class.getName()).log(Level.SEVERE, null, ex);
             }           
