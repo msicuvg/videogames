@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Configuración"><EditTextPreference android:title="Servidor" android:key="server" android:summary="Escriba servidor de presentaciones" android:defaultValue="192.168.1.177"></EditTextPreference>
+</PreferenceCategory>
+</PreferenceScreen>

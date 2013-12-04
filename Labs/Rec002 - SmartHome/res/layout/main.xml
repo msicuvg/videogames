@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	<EditText android:layout_height="wrap_content"
+		android:id="@+id/txtNombre" android:text="@string/txtNombre" 
+		android:layout_width="fill_parent">
+	   
+	</EditText>
+    
+    <Button
+        android:id="@+id/btnCargar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 1" 
+     	android:layout_below="@+id/txtNombre"
+    >
+    </Button>
+
+   <Button
+        android:id="@+id/btnLed2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 2" 
+     	android:layout_below="@+id/btnCargar"
+    >
+    </Button>
+    
+       <Button
+        android:id="@+id/btnLed3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 3" 
+     	android:layout_below="@+id/btnLed2"
+    >
+    </Button>
+    <Button
+        android:id="@+id/btnLed4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 4" 
+     	android:layout_below="@+id/btnLed3"
+    >
+    </Button>
+   
+    <Button
+        android:id="@+id/btnLed5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 5" 
+     	android:layout_below="@+id/btnLed4"
+    >
+    </Button>
+    <Button
+        android:id="@+id/btnLed6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 6" 
+     	android:layout_below="@+id/btnLed5"
+    >
+    </Button>
+     <Button
+        android:id="@+id/btnLed7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Encender LED 7" 
+     	android:layout_below="@+id/btnLed6"
+    >
+    </Button>
+
+
+</RelativeLayout>
