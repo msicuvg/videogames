@@ -1,0 +1,2 @@
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\Content\obj\x86\Debug\3DModelContent.contentprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\3DModel\Content\obj\x86\Debug\3DModelContent.contentprojResolveAssemblyReference.cache

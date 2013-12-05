@@ -1,0 +1,1 @@
+C:\aprendiendoXNA\proyectos\LoadModel\LoadModel\Content\obj\x86\Debug\ResolveAssemblyReference.cache

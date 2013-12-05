@@ -1,0 +1,2 @@
+C:\Users\servkey\Desktop\Labs\LoadModel\LoadModel\LoadModel\LoadModel\Content\obj\x86\Debug\LoadModelContent.contentprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\Content\obj\x86\Debug\LoadModelContent.contentprojResolveAssemblyReference.cache

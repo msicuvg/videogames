@@ -1,0 +1,29 @@
+c2147f2e206b465d9312f56c6748c809
+0
+xboxgsm
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\
+130307179000000000
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\GameThumbnail.png
+2008-09-26T04:36:38.0000000Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\LoadModel.exe
+2013-12-05T11:51:50.9551308Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_l_0.xnb
+2013-12-05T11:51:39.6065550Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_R_0.xnb
+2013-12-05T11:51:39.5445131Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuBody_0.xnb
+2013-12-05T11:51:38.6829380Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuHead_0.xnb
+2013-12-05T11:51:39.4864748Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman.xnb
+2013-12-05T11:51:45.4674668Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman1.xnb
+2013-12-05T11:51:36.4664585Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman3.xnb
+2013-12-05T11:51:50.7209737Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\miku.xnb
+2013-12-05T11:51:37.8153597Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\p1_wedge.xnb
+2013-12-05T11:51:27.3803933Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+2013-12-05T11:51:27.5174848Z

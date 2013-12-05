@@ -1,0 +1,15 @@
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\Content\ball.xnb
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.exe
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.pdb
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.exe
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.pdb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\Content\ball.xnb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.exe
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.pdb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.exe
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.pdb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.csprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\Content\arial.xnb

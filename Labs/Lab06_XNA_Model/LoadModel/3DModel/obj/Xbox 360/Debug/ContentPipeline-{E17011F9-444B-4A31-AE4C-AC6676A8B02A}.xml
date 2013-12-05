@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2008-09-25T23:37:50-05:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2013-12-05T05:51:27.2443033-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ironman1.FBX</Source>
+      <Name>Models\ironman1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman1.xnb</Output>
+      <Time>2013-12-02T20:23:07.4053632-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman1_0.xml</Key>
+        <Value>2013-12-05T05:51:33.0281633-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\miku.FBX</Source>
+      <Name>Models\miku</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\miku.xnb</Output>
+      <Time>2013-12-03T03:03:59.7537831-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\miku_0.xml</Key>
+        <Value>2013-12-05T05:51:37.381069-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuBody_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuHead_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_R_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_l_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ironman.FBX</Source>
+      <Name>Models\ironman</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman.xnb</Output>
+      <Time>2013-12-04T10:09:24.0215557-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman_0.xml</Key>
+        <Value>2013-12-05T05:51:43.8483865-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ironman3.FBX</Source>
+      <Name>Models\ironman3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\Models\ironman3.xnb</Output>
+      <Time>2013-12-04T10:20:01.0781414-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman3_0.xml</Key>
+        <Value>2013-12-05T05:51:49.0218395-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2008-09-25T23:37:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2007-05-08T15:18:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ironman1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman1_0.xml</Output>
+      <Time>2013-12-02T20:23:07.4053632-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\miku.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\miku_0.xml</Output>
+      <Time>2013-12-03T03:03:59.7537831-06:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\KerjaSampingan\MikuHatsune MyVersion\MikuTexture\v2\MikuBody.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuBody_0.xnb</Output>
+      <Time>2013-12-03T03:17:09.9738188-06:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\KerjaSampingan\MikuHatsune MyVersion\MikuTexture\v2\testmiku\MikuHead.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\MikuHead_0.xnb</Output>
+      <Time>2013-12-03T03:18:35.0283291-06:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\KerjaSampingan\MikuHatsune MyVersion\MikuTexture\v2\iris_R.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_R_0.xnb</Output>
+      <Time>2013-12-03T03:19:35.9443731-06:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\KerjaSampingan\MikuHatsune MyVersion\MikuTexture\v2\iris_l.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\iris_l_0.xnb</Output>
+      <Time>2013-12-03T03:19:14.6567607-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ironman.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman_0.xml</Output>
+      <Time>2013-12-04T10:09:24.0215557-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ironman3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\Models\ironman3_0.xml</Output>
+      <Time>2013-12-04T10:20:01.0781414-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E17011F9-444B-4A31-AE4C-AC6676A8B02A}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Model\LoadModel\LoadModel\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-19T23:06:15.6612816-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

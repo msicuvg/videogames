@@ -1,0 +1,9 @@
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\obj\x86\Debug\LoadModel.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\bin\x86\Debug\Content\textures\wedge_p1_diff_v1%0.xnb
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\bin\x86\Debug\LoadModel.exe
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\bin\x86\Debug\LoadModel.pdb
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\obj\x86\Debug\LoadModel.exe
+C:\Users\mariscal\Desktop\LoadModel\LoadModel\obj\x86\Debug\LoadModel.pdb

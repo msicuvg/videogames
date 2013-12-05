@@ -1,0 +1,7 @@
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\Xbox 360\Debug\Content\ball.xnb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\Xbox 360\Debug\MyFirstGame.exe
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\bin\Xbox 360\Debug\MyFirstGame.pdb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\Xbox 360\Debug\MyFirstGame.exe
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\Xbox 360\Debug\MyFirstGame.pdb
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGame\obj\Xbox 360\Debug\Xbox 360 Copy of MyFirstGame.csprojResolveAssemblyReference.cache

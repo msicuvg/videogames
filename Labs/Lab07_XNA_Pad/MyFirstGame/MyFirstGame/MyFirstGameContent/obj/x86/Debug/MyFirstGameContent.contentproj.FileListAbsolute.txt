@@ -1,0 +1,2 @@
+c:\users\thedarkjoker\documents\visual studio 2010\Projects\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cursos\Videogames\MyFirstGame\MyFirstGame\MyFirstGameContent\obj\x86\Debug\MyFirstGameContent.contentprojResolveAssemblyReference.cache
