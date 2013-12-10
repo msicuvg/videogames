@@ -8,7 +8,7 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
-
+using System.Threading;
 namespace AnimatedSprites
 {
     /// <summary>
@@ -16,12 +16,13 @@ namespace AnimatedSprites
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        int collisionRectOffsetBall = 10;
+        int collisionRectOffsetMarioCaminando = 10;
+
         SoundEffect soundEffect;
         GraphicsDeviceManager graphics;
         SpriteBatch sprite;
-        SpriteBatch spriteBall;
-        SpriteBatch spriteMarioCaminando;
-        // Texture stuff
+         // Texture stuff
 
         // Ball
         Texture2D textureBall;
@@ -58,6 +59,9 @@ namespace AnimatedSprites
         int timeSinceLastFrame = 0;
         int millisecondsPerFrame = 50;
 
+        //Control de botones
+        GamePadState gamepadLast;
+        KeyboardState keyboardLast;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -86,8 +90,6 @@ namespace AnimatedSprites
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             sprite = new SpriteBatch(GraphicsDevice);
-            spriteMarioCaminando = new SpriteBatch(GraphicsDevice);
-            spriteBall = new SpriteBatch(GraphicsDevice);
             texture = Content.Load<Texture2D>(@"images\threerings");
             textureMarioCaminando = Content.Load<Texture2D>(@"images\marioSprite1");
             textureBall = Content.Load<Texture2D>(@"images\skullball");
@@ -211,8 +213,12 @@ namespace AnimatedSprites
             }
 
             Ball(gameTime);
+            if (Collide())
+                Exit();
+         
             // Move threerings based on keyboard input
             KeyboardState keyboardState = Keyboard.GetState();
+
             if (keyboardState.IsKeyDown(Keys.Left) || GamePad.GetState(PlayerIndex.One).DPad.Left == ButtonState.Pressed
                 || GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.LeftThumbstickLeft))
                 positionDrawMarioCaminando.X -= speedMarioCaminando;
@@ -224,17 +230,38 @@ namespace AnimatedSprites
                 positionDrawMarioCaminando.Y += speedMarioCaminando;
 
             GamePadState gamepadState = GamePad.GetState(PlayerIndex.One);
-
-            if (gamepadState.Buttons.A == ButtonState.Pressed || keyboardState.IsKeyDown(Keys.A))
+            if (gamepadState.Buttons.A == ButtonState.Pressed)
             {
-                GamePad.SetVibration(PlayerIndex.One, 1f, 1f);
+                gamepadLast = gamepadState;
+            }
+            if (keyboardState.IsKeyDown(Keys.A))
+            {
+                if (!keyboardLast.IsKeyDown(Keys.A))
+                {
+                    Encender();
+                    Console.WriteLine("Imprimir A");
+                }
+                keyboardLast = keyboardState;
+            }
+
+            if ((gamepadLast.Buttons.A == ButtonState.Released && gamepadState.Buttons.A == ButtonState.Pressed))
+            {
+                    GamePad.SetVibration(PlayerIndex.One, 1f, 1f);
+
+                    Encender();
             }
             else
             {
                 GamePad.SetVibration(PlayerIndex.One, 0, 0);
             }
 
-            
+           /* if (keyboardLast.IsKeyDown(Keys.A) && keyboardState.IsKeyUp(Keys.A))
+            {
+                Console.WriteLine("Imprimir A");
+                Encender();
+            }*/
+            keyboardLast = keyboardState;
+            gamepadLast = gamepadState;
             base.Update(gameTime);
         }
 
@@ -249,6 +276,23 @@ namespace AnimatedSprites
                 1, SpriteEffects.None, 0);
         }
 
+        private void Encender()
+        {
+            ClienteUtils c = new ClienteUtils();
+            Thread t = new Thread(delegate()
+            {
+                try
+                {
+                    //192,168,43,91
+                  //  ClienteUtils.Send("192.168.1.177", 80, "5\n\n");
+                    ClienteUtils.Send("192.168.43.91", 80, "5\n\n");
+                    
+                    Console.WriteLine("Enviando paquete....");
+                }
+                catch { }
+            });
+            t.Start();
+        }
 
         private void MarioCaminandoSprite()
         {
@@ -287,7 +331,24 @@ namespace AnimatedSprites
             base.Draw(gameTime);
         }
 
-     
+        protected bool Collide()
+        {
+            Rectangle marioRect = new Rectangle(
+                (int)positionDrawMarioCaminando.X + collisionRectOffsetMarioCaminando,
+                (int)positionDrawMarioCaminando.Y + collisionRectOffsetMarioCaminando,
+                frameSizeMarioCaminando.X - (collisionRectOffsetMarioCaminando * 2),
+                frameSizeMarioCaminando.Y - (collisionRectOffsetMarioCaminando * 2));
+            Rectangle ballRect = new Rectangle(
+                (int)positionDrawBall.X + collisionRectOffsetBall,
+                (int)positionDrawBall.Y + collisionRectOffsetBall,
+                frameSizeBall.X - (collisionRectOffsetBall * 2),
+                frameSizeBall.Y - (collisionRectOffsetBall * 2));
+
+            return marioRect.Intersects(ballRect);
+
+        }
+
+      
 
     }
 }
