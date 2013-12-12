@@ -1,0 +1,13 @@
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.csprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.exe
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.pdb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.exe
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.pdb
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.exe
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.pdb
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.csprojResolveAssemblyReference.cache
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.exe
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.pdb
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\Content\Images\firefox.xnb

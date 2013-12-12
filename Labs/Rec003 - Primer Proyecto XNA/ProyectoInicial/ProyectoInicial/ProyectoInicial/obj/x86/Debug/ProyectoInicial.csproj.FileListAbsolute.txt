@@ -1,0 +1,6 @@
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.csprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.exe
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\bin\x86\Debug\ProyectoInicial.pdb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.exe
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicial\obj\x86\Debug\ProyectoInicial.pdb

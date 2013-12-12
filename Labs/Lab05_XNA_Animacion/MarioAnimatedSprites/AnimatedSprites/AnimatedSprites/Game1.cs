@@ -16,8 +16,11 @@ namespace AnimatedSprites
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
-        int collisionRectOffsetBall = 10;
-        int collisionRectOffsetMarioCaminando = 10;
+        private bool marioCaminando = false;
+        private String ip = "148.226.81.145";
+
+        int collisionRectOffsetBall = 5;
+        int collisionRectOffsetMarioCaminando = 5;
 
         SoundEffect soundEffect;
         GraphicsDeviceManager graphics;
@@ -52,9 +55,20 @@ namespace AnimatedSprites
         int timeSinceLastFrameMarioCaminando = 0;
         const int millisecondsPerFrameMarioCaminando = 30;
         Point sheetSizeMarioCaminando = new Point(3, 1);
-        Vector2 positionDrawMarioCaminando = new Vector2(100, 150);
+        Vector2 positionDrawMario = new Vector2(100, 150);
         const float speedMarioCaminando = 5;
-     
+
+
+
+        Texture2D textureMarioDetenido;
+        Point currentFrameMarioDetenido = new Point(0, 0);
+        Point frameSizeMarioDetenido = new Point(17, 32);
+        int timeSinceLastFrameMarioDetenido = 0;
+        const int millisecondsPerFrameMarioDetenido = 30;
+        Point sheetSizeMarioDetenido = new Point(1, 1);
+       
+        const float speedMarioDetenido = 5;
+
         // Framerate stuff
         int timeSinceLastFrame = 0;
         int millisecondsPerFrame = 50;
@@ -65,6 +79,9 @@ namespace AnimatedSprites
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.IsFullScreen = false;
+            graphics.PreferredBackBufferHeight = 600;
+            graphics.PreferredBackBufferWidth = 800;
             Content.RootDirectory = "Content";
 
         }
@@ -89,9 +106,11 @@ namespace AnimatedSprites
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
+            
             sprite = new SpriteBatch(GraphicsDevice);
             texture = Content.Load<Texture2D>(@"images\threerings");
             textureMarioCaminando = Content.Load<Texture2D>(@"images\marioSprite1");
+            textureMarioDetenido = Content.Load<Texture2D>(@"images\marioStatic");
             textureBall = Content.Load<Texture2D>(@"images\skullball");
             soundEffect = Content.Load<SoundEffect>(@"sounds\01-overworld");
             soundEffect.Play();
@@ -103,6 +122,7 @@ namespace AnimatedSprites
         /// </summary>
         protected override void UnloadContent()
         {
+            Console.WriteLine("Saliendo");
             // TODO: Unload any non ContentManager content here
         }
         /// <summary>
@@ -187,10 +207,26 @@ namespace AnimatedSprites
                         currentFrameMarioCaminando.Y = 0;
                 }
             }
+            positionDrawMario = ValidarObjeto(positionDrawMario, frameSizeMarioCaminando);
+        }
 
+        private void MarioDetenido(GameTime gameTime)
+        {
+            timeSinceLastFrameMarioDetenido += gameTime.ElapsedGameTime.Milliseconds;
+            if (timeSinceLastFrameMarioDetenido > millisecondsPerFrameMarioDetenido)
+            {
+                timeSinceLastFrameMarioDetenido -= millisecondsPerFrameMarioDetenido;
 
-
-            positionDrawMarioCaminando = ValidarObjeto(positionDrawMarioCaminando, frameSizeMarioCaminando);
+                ++currentFrameMarioDetenido.X;
+                if (currentFrameMarioDetenido.X >= sheetSizeMarioDetenido.X)
+                {
+                    currentFrameMarioDetenido.X = 0;
+                    ++currentFrameMarioDetenido.Y;
+                    if (currentFrameMarioDetenido.Y >= sheetSizeMarioDetenido.Y)
+                        currentFrameMarioDetenido.Y = 0;
+                }
+            }
+            positionDrawMario = ValidarObjeto(positionDrawMario, frameSizeMarioDetenido);
         }
 
         /// <summary>
@@ -209,9 +245,17 @@ namespace AnimatedSprites
             {
                 timeSinceLastFrame -= millisecondsPerFrame;
                 Animation(gameTime);
-                MarioCaminando(gameTime);
+               
             }
 
+            if (marioCaminando)
+            {
+                MarioCaminando(gameTime);
+            }
+            else
+            {
+                MarioDetenido(gameTime);
+            }
             Ball(gameTime);
             if (Collide())
                 Exit();
@@ -221,14 +265,31 @@ namespace AnimatedSprites
 
             if (keyboardState.IsKeyDown(Keys.Left) || GamePad.GetState(PlayerIndex.One).DPad.Left == ButtonState.Pressed
                 || GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.LeftThumbstickLeft))
-                positionDrawMarioCaminando.X -= speedMarioCaminando;
-            if (keyboardState.IsKeyDown(Keys.Right) || GamePad.GetState(PlayerIndex.One).DPad.Right == ButtonState.Pressed)
-                positionDrawMarioCaminando.X += speedMarioCaminando;
-            if (keyboardState.IsKeyDown(Keys.Up) || GamePad.GetState(PlayerIndex.One).DPad.Up == ButtonState.Pressed)
-                positionDrawMarioCaminando.Y -= speedMarioCaminando;
-            if (keyboardState.IsKeyDown(Keys.Down) || GamePad.GetState(PlayerIndex.One).DPad.Down == ButtonState.Pressed)
-                positionDrawMarioCaminando.Y += speedMarioCaminando;
+            {
+                marioCaminando = true;
+                positionDrawMario.X -= speedMarioCaminando;
+            }
+            else if (keyboardState.IsKeyDown(Keys.Right) || GamePad.GetState(PlayerIndex.One).DPad.Right == ButtonState.Pressed)
+            {
 
+                marioCaminando = true;
+                positionDrawMario.X += speedMarioCaminando;
+            }
+            else if (keyboardState.IsKeyDown(Keys.Up) || GamePad.GetState(PlayerIndex.One).DPad.Up == ButtonState.Pressed)
+            {
+
+                marioCaminando = true;
+                positionDrawMario.Y -= speedMarioCaminando;
+            }
+            else if (keyboardState.IsKeyDown(Keys.Down) || GamePad.GetState(PlayerIndex.One).DPad.Down == ButtonState.Pressed)
+            {
+                marioCaminando = true;
+                positionDrawMario.Y += speedMarioCaminando;
+            }
+            else
+            {
+                marioCaminando = false;
+            }
             GamePadState gamepadState = GamePad.GetState(PlayerIndex.One);
             if (gamepadState.Buttons.A == ButtonState.Pressed)
             {
@@ -255,13 +316,9 @@ namespace AnimatedSprites
                 GamePad.SetVibration(PlayerIndex.One, 0, 0);
             }
 
-           /* if (keyboardLast.IsKeyDown(Keys.A) && keyboardState.IsKeyUp(Keys.A))
-            {
-                Console.WriteLine("Imprimir A");
-                Encender();
-            }*/
             keyboardLast = keyboardState;
             gamepadLast = gamepadState;
+           
             base.Update(gameTime);
         }
 
@@ -276,6 +333,7 @@ namespace AnimatedSprites
                 1, SpriteEffects.None, 0);
         }
 
+
         private void Encender()
         {
             ClienteUtils c = new ClienteUtils();
@@ -285,7 +343,7 @@ namespace AnimatedSprites
                 {
                     //192,168,43,91
                   //  ClienteUtils.Send("192.168.1.177", 80, "5\n\n");
-                    ClienteUtils.Send("192.168.43.91", 80, "5\n\n");
+                    ClienteUtils.Send(ip, 80, "5\n\n");
                     
                     Console.WriteLine("Enviando paquete....");
                 }
@@ -296,7 +354,7 @@ namespace AnimatedSprites
 
         private void MarioCaminandoSprite()
         {
-            sprite.Draw(textureMarioCaminando, positionDrawMarioCaminando,
+            sprite.Draw(textureMarioCaminando, positionDrawMario,
                 new Rectangle(currentFrameMarioCaminando.X * frameSizeMarioCaminando.X,
                     currentFrameMarioCaminando.Y * frameSizeMarioCaminando.Y,
                     frameSizeMarioCaminando.X,
@@ -305,6 +363,16 @@ namespace AnimatedSprites
                2, SpriteEffects.None, 0);
         }
 
+        private void MarioDetenidoSprite()
+        {
+            sprite.Draw(textureMarioDetenido, positionDrawMario,
+                new Rectangle(currentFrameMarioDetenido.X * frameSizeMarioDetenido.X,
+                    currentFrameMarioDetenido.Y * frameSizeMarioDetenido.Y,
+                    frameSizeMarioDetenido.X,
+                    frameSizeMarioDetenido.Y),
+                Color.White, 0, Vector2.Zero,
+               2, SpriteEffects.None, 0);
+        }
         private void BallSprite()
         {
             sprite.Draw(textureBall, positionDrawBall,
@@ -323,10 +391,13 @@ namespace AnimatedSprites
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.White);
-            sprite.Begin(SpriteSortMode.FrontToBack, BlendState.AlphaBlend);
+            sprite.Begin(SpriteSortMode.Immediate, BlendState.AlphaBlend);
             AnimationSprite();
             BallSprite();
-            MarioCaminandoSprite();
+            if (marioCaminando)
+                MarioCaminandoSprite();
+            else
+                MarioDetenidoSprite();
             sprite.End();
             base.Draw(gameTime);
         }
@@ -334,8 +405,8 @@ namespace AnimatedSprites
         protected bool Collide()
         {
             Rectangle marioRect = new Rectangle(
-                (int)positionDrawMarioCaminando.X + collisionRectOffsetMarioCaminando,
-                (int)positionDrawMarioCaminando.Y + collisionRectOffsetMarioCaminando,
+                (int)positionDrawMario.X + collisionRectOffsetMarioCaminando,
+                (int)positionDrawMario.Y + collisionRectOffsetMarioCaminando,
                 frameSizeMarioCaminando.X - (collisionRectOffsetMarioCaminando * 2),
                 frameSizeMarioCaminando.Y - (collisionRectOffsetMarioCaminando * 2));
             Rectangle ballRect = new Rectangle(

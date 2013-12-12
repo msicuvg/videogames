@@ -1,0 +1,2 @@
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Rec003 - Primer Proyecto XNA\ProyectoInicial\ProyectoInicial\ProyectoInicialContent\obj\x86\Debug\ProyectoInicialContent.contentprojResolveAssemblyReference.cache
+D:\cursos\videogames\contenido\repository\videogames\labs\Rec004 - Mouse\ProyectoInicial\ProyectoInicial\ProyectoInicialContent\obj\x86\Debug\ProyectoInicialContent.contentprojResolveAssemblyReference.cache

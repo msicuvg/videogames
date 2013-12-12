@@ -39,20 +39,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Images\marioSprite.png">
-      <Name>marioSprite</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Images\marioSprite1.png">
-      <Name>marioSprite1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Sounds\01-overworld.wav">
       <Name>01-overworld</Name>
       <Importer>WavImporter</Importer>
@@ -69,6 +55,13 @@
   <ItemGroup>
     <Compile Include="Images\marioStatic.png">
       <Name>marioStatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Images\marioSprite1.png">
+      <Name>marioSprite1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

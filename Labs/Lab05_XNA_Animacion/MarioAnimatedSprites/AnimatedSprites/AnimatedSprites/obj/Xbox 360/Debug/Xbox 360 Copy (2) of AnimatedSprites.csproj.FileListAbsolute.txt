@@ -10,3 +10,4 @@ C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprit
 C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\AnimatedSprites.exe
 C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\AnimatedSprites.pdb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
