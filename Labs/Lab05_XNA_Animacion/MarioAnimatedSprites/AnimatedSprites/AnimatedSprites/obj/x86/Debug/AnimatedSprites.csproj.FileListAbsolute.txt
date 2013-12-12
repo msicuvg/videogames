@@ -30,3 +30,4 @@ D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\Ma
 D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
 D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
 D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
