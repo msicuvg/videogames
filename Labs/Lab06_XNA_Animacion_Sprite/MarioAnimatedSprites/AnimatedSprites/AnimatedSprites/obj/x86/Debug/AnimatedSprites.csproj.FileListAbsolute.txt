@@ -48,3 +48,4 @@ D:\cursos\videogames\contenido\repository\videogames\labs\Lab06_XNA_Animacion_Sp
 D:\cursos\videogames\contenido\repository\videogames\labs\Lab06_XNA_Animacion_Sprite\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\super_mario.xnb
 D:\cursos\videogames\contenido\repository\videogames\labs\Lab06_XNA_Animacion_Sprite\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\up.xnb
 D:\cursos\videogames\contenido\repository\videogames\labs\Lab06_XNA_Animacion_Sprite\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Sounds\smb_1-up.xnb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Animacion_Sprite\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
