@@ -1,0 +1,1991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Name>Models\asteroid1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\asteroid1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\asteroid1_0.xml</Key>
+        <Value>2013-11-23T22:54:31.1120083-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\asteroid2.x</Source>
+      <Name>Models\asteroid2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\asteroid2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\asteroid2_0.xml</Key>
+        <Value>2013-11-23T22:54:31.5214009-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\mgun_proj.x</Source>
+      <Name>Models\mgun_proj</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\mgun_proj.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\mgun_proj_0.xml</Key>
+        <Value>2013-11-23T22:54:31.5640802-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\mgun_proj_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_bfg.x</Source>
+      <Name>Models\p1_bfg</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_bfg.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_bfg_0.xml</Key>
+        <Value>2013-11-23T22:54:31.775221-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_bfg_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_dual.x</Source>
+      <Name>Models\p1_dual</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_dual.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_dual_0.xml</Key>
+        <Value>2013-11-23T22:54:32.3811548-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_dual_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_mgun.x</Source>
+      <Name>Models\p1_mgun</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_mgun.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_mgun_0.xml</Key>
+        <Value>2013-11-23T22:54:32.9618488-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_dual_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_pea.x</Source>
+      <Name>Models\p1_pea</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_pea.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_pea_0.xml</Key>
+        <Value>2013-11-23T22:54:33.2140165-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_rocket.x</Source>
+      <Name>Models\p1_rocket</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_rocket.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_rocket_0.xml</Key>
+        <Value>2013-11-23T22:54:33.321087-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_rocket_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_bfg.x</Source>
+      <Name>Models\p2_bfg</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_bfg.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_bfg_0.xml</Key>
+        <Value>2013-11-23T22:54:33.5561655-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_bfg_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_dual.x</Source>
+      <Name>Models\p2_dual</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_dual.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_dual_0.xml</Key>
+        <Value>2013-11-23T22:54:34.1513559-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_dual_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_mgun.x</Source>
+      <Name>Models\p2_mgun</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_mgun.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_mgun_0.xml</Key>
+        <Value>2013-11-23T22:54:34.6817082-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_dual_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_pea.x</Source>
+      <Name>Models\p2_pea</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_pea.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_pea_0.xml</Key>
+        <Value>2013-11-23T22:54:34.9188676-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_rocket.x</Source>
+      <Name>Models\p2_rocket</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_rocket.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_rocket_0.xml</Key>
+        <Value>2013-11-23T22:54:35.0311266-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_rocket_0.xnb</Request>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Name>Models\pea_proj</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\pea_proj.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\pea_proj_0.xml</Key>
+        <Value>2013-11-23T22:54:35.1280776-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pea_proj_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bfg_proj.fbx</Source>
+      <Name>Models\bfg_proj</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\bfg_proj.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\bfg_proj_0.xml</Key>
+        <Value>2013-11-23T22:54:35.2511575-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\bfg_proj_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_pencil.fbx</Source>
+      <Name>Models\p1_pencil</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_pencil.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_pencil_0.xml</Key>
+        <Value>2013-11-23T22:54:35.6596922-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_rocket_proj.fbx</Source>
+      <Name>Models\p1_rocket_proj</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_rocket_proj.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_rocket_proj_0.xml</Key>
+        <Value>2013-11-23T22:54:35.888319-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_rocket_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_saucer.fbx</Source>
+      <Name>Models\p1_saucer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_saucer.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_saucer_0.xml</Key>
+        <Value>2013-11-23T22:54:36.1254776-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2013-11-23T22:54:36.7929204-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_pencil.fbx</Source>
+      <Name>Models\p2_pencil</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_pencil.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_pencil_0.xml</Key>
+        <Value>2013-11-23T22:54:37.2550319-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_rocket_proj.fbx</Source>
+      <Name>Models\p2_rocket_proj</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_rocket_proj.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_rocket_proj_0.xml</Key>
+        <Value>2013-11-23T22:54:37.4621678-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_rocket_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_saucer.fbx</Source>
+      <Name>Models\p2_saucer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_saucer.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_saucer_0.xml</Key>
+        <Value>2013-11-23T22:54:37.9875181-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p2_wedge.fbx</Source>
+      <Name>Models\p2_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_wedge.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+      <Dependency>
+        <Key>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_wedge_0.xml</Key>
+        <Value>2013-11-23T22:54:38.6250033-06:00</Value>
+      </Dependency>
+      <Request>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Shaders\backdrop.fx</Source>
+      <Name>Shaders\backdrop</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\backdrop.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\ship.fx</Source>
+      <Name>Shaders\ship</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\ship.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\simple.fx</Source>
+      <Name>Shaders\simple</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\simple.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\simplescreen.fx</Source>
+      <Name>Shaders\simplescreen</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\simplescreen.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\sun.fx</Source>
+      <Name>Shaders\sun</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\sun.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p1_reflection_cubemap.dds</Source>
+      <Name>Textures\p1_reflection_cubemap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p1_reflection_cubemap.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_reflection_cubemap1.dds</Source>
+      <Name>Textures\p2_reflection_cubemap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_reflection_cubemap1.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_reflection_cubemap2.dds</Source>
+      <Name>Textures\p2_reflection_cubemap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_reflection_cubemap2.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\health.tga</Source>
+      <Name>Fonts\health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\health.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hud_round_button.tga</Source>
+      <Name>Fonts\hud_round_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\hud_round_button.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hud_weapon_icons.tga</Source>
+      <Name>Fonts\hud_weapon_icons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\hud_weapon_icons.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\in-game_Player_text.tga</Source>
+      <Name>Fonts\in-game_Player_text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\in-game_Player_text.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\in-game_score.tga</Source>
+      <Name>Fonts\in-game_score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\in-game_score.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ingame_counter.tga</Source>
+      <Name>Fonts\ingame_counter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\ingame_counter.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ship_names.tga</Source>
+      <Name>Fonts\ship_names</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\ship_names.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\weapon_large_font.tga</Source>
+      <Name>Fonts\weapon_large_font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\weapon_large_font.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\weapon_small_font.tga</Source>
+      <Name>Fonts\weapon_small_font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\weapon_small_font.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid1.tga</Source>
+      <Name>Textures\asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\asteroid1.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid1N.tga</Source>
+      <Name>Textures\asteroid1N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\asteroid1N.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid2.tga</Source>
+      <Name>Textures\asteroid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\asteroid2.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_nebula01.jpg</Source>
+      <Name>Textures\B1_nebula01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\B1_nebula01.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_nebula02.jpg</Source>
+      <Name>Textures\B1_nebula02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\B1_nebula02.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_stars.jpg</Source>
+      <Name>Textures\B1_stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\B1_stars.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bfg_proj.tga</Source>
+      <Name>Textures\bfg_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\bfg_proj.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Black.tga</Source>
+      <Name>Textures\Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\Black.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle.tga</Source>
+      <Name>Textures\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\circle.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\in-game_score_overlay.tga</Source>
+      <Name>Textures\in-game_score_overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\in-game_score_overlay.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\info_screen.tga</Source>
+      <Name>Textures\info_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\info_screen.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mgun_proj.tga</Source>
+      <Name>Textures\mgun_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\mgun_proj.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p1_back.tga</Source>
+      <Name>Textures\p1_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p1_back.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p1_bfg.tga</Source>
+      <Name>Textures\p1_bfg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p1_bfg.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p1_dual.tga</Source>
+      <Name>Textures\p1_dual</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p1_dual.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p1_rocket.tga</Source>
+      <Name>Textures\p1_rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p1_rocket.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_back.tga</Source>
+      <Name>Textures\p2_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_back.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_bfg.tga</Source>
+      <Name>Textures\p2_bfg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_bfg.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_dual.tga</Source>
+      <Name>Textures\p2_dual</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_dual.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\p2_rocket.tga</Source>
+      <Name>Textures\p2_rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\p2_rocket.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pea_proj.tga</Source>
+      <Name>Textures\pea_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pea_proj.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p1_diff_v1.tga</Source>
+      <Name>Textures\pencil_p1_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p1_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p1_diff_v2.tga</Source>
+      <Name>Textures\pencil_p1_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p1_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p1_diff_v3.tga</Source>
+      <Name>Textures\pencil_p1_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p1_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p2_diff_v1.tga</Source>
+      <Name>Textures\pencil_p2_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p2_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p2_diff_v2.tga</Source>
+      <Name>Textures\pencil_p2_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p2_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pencil_p2_diff_v3.tga</Source>
+      <Name>Textures\pencil_p2_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\pencil_p2_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\retro_backdrop.jpg</Source>
+      <Name>Textures\retro_backdrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\retro_backdrop.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rocket_proj.tga</Source>
+      <Name>Textures\rocket_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\rocket_proj.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p1_diff_v1.tga</Source>
+      <Name>Textures\saucer_p1_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p1_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p1_diff_v2.tga</Source>
+      <Name>Textures\saucer_p1_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p1_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p1_diff_v3.tga</Source>
+      <Name>Textures\saucer_p1_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p1_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p2_diff_v1.tga</Source>
+      <Name>Textures\saucer_p2_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p2_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p2_diff_v2.tga</Source>
+      <Name>Textures\saucer_p2_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p2_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\saucer_p2_diff_v3.tga</Source>
+      <Name>Textures\saucer_p2_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\saucer_p2_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ship_select_FINAL.png</Source>
+      <Name>Textures\ship_select_FINAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\ship_select_FINAL.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Spacewar_Title_FINAL.jpg</Source>
+      <Name>Textures\Spacewar_Title_FINAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\Spacewar_Title_FINAL.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\suntest1.tga</Source>
+      <Name>Textures\suntest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\suntest1.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\suntest2.tga</Source>
+      <Name>Textures\suntest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\suntest2.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\suntest3.tga</Source>
+      <Name>Textures\suntest3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\suntest3.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\suntest4.tga</Source>
+      <Name>Textures\suntest4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\suntest4.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\suntest5.tga</Source>
+      <Name>Textures\suntest5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\suntest5.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\thrust_stripSmall.tga</Source>
+      <Name>Textures\thrust_stripSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\thrust_stripSmall.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Title_button_overlay.tga</Source>
+      <Name>Textures\Title_button_overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\Title_button_overlay.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\victory.png</Source>
+      <Name>Textures\victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\victory.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\weapon_select_FINAL.png</Source>
+      <Name>Textures\weapon_select_FINAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\weapon_select_FINAL.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p1_diff_v1.tga</Source>
+      <Name>Textures\wedge_p1_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p1_diff_v2.tga</Source>
+      <Name>Textures\wedge_p1_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p1_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p1_diff_v3.tga</Source>
+      <Name>Textures\wedge_p1_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p1_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p2_diff_v1.tga</Source>
+      <Name>Textures\wedge_p2_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p2_diff_v1.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p2_diff_v2.tga</Source>
+      <Name>Textures\wedge_p2_diff_v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p2_diff_v2.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p2_diff_v3.tga</Source>
+      <Name>Textures\wedge_p2_diff_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Textures\wedge_p2_diff_v3.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Collisions\phase_collide_ship1.wav</Source>
+      <Name>Audio\Waves\Collisions\phase_collide_ship1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\phase_collide_ship1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Collisions\phase_collide_ship2.wav</Source>
+      <Name>Audio\Waves\Collisions\phase_collide_ship2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\phase_collide_ship2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Collisions\shield_collide_ship1.wav</Source>
+      <Name>Audio\Waves\Collisions\shield_collide_ship1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\shield_collide_ship1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Collisions\shield_collide_ship2.wav</Source>
+      <Name>Audio\Waves\Collisions\shield_collide_ship2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\shield_collide_ship2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Explosions\explosion1.wav</Source>
+      <Name>Audio\Waves\Explosions\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Explosions\explosion1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Explosions\explosion2.wav</Source>
+      <Name>Audio\Waves\Explosions\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Explosions\explosion2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Music\Menu_Loop.wav</Source>
+      <Name>Audio\Waves\Music\Menu_Loop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Music\Menu_Loop.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Music\Theme.WAV</Source>
+      <Name>Audio\Waves\Music\Theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Music\Theme.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\countdown_expire.wav</Source>
+      <Name>Audio\Waves\Powerups\countdown_expire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\countdown_expire.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\countdown_warning.wav</Source>
+      <Name>Audio\Waves\Powerups\countdown_warning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\countdown_warning.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\phase_activate.wav</Source>
+      <Name>Audio\Waves\Powerups\phase_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_activate.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\phase_expire.wav</Source>
+      <Name>Audio\Waves\Powerups\phase_expire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_expire.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\phase_expire_alt.wav</Source>
+      <Name>Audio\Waves\Powerups\phase_expire_alt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_expire_alt.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\weapon_pickup.wav</Source>
+      <Name>Audio\Waves\Powerups\weapon_pickup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\weapon_pickup_alt.wav</Source>
+      <Name>Audio\Waves\Powerups\weapon_pickup_alt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup_alt.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Powerups\weapon_pickup_alt_retro.wav</Source>
+      <Name>Audio\Waves\Powerups\weapon_pickup_alt_retro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup_alt_retro.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Ships\accel1_noloop.wav</Source>
+      <Name>Audio\Waves\Ships\accel1_noloop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\accel1_noloop.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Ships\engine_1.wav</Source>
+      <Name>Audio\Waves\Ships\engine_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Ships\engine_2.wav</Source>
+      <Name>Audio\Waves\Ships\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Ships\engine_3.wav</Source>
+      <Name>Audio\Waves\Ships\engine_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_3.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_advance.wav</Source>
+      <Name>Audio\Waves\UI\menu_advance</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_advance.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_back.wav</Source>
+      <Name>Audio\Waves\UI\menu_back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_back.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_bad_select.wav</Source>
+      <Name>Audio\Waves\UI\menu_bad_select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_bad_select.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_scroll.wav</Source>
+      <Name>Audio\Waves\UI\menu_scroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_scroll.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_select.wav</Source>
+      <Name>Audio\Waves\UI\menu_select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_select2.wav</Source>
+      <Name>Audio\Waves\UI\menu_select2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\menu_select3.wav</Source>
+      <Name>Audio\Waves\UI\menu_select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select3.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\UI\points_tally.wav</Source>
+      <Name>Audio\Waves\UI\points_tally</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\points_tally.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\damage1.wav</Source>
+      <Name>Audio\Waves\Weapons\damage1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\damage1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\damage2.wav</Source>
+      <Name>Audio\Waves\Weapons\damage2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\damage2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\explosion3.wav</Source>
+      <Name>Audio\Waves\Weapons\explosion3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\explosion3.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\hax2_fire.wav</Source>
+      <Name>Audio\Waves\Weapons\hax2_fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\hax2_fire2.wav</Source>
+      <Name>Audio\Waves\Weapons\hax2_fire2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\hax2_fire_alt.wav</Source>
+      <Name>Audio\Waves\Weapons\hax2_fire_alt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire_alt.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\hyperspace_activate.wav</Source>
+      <Name>Audio\Waves\Weapons\hyperspace_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hyperspace_activate.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\hyperspace_return.wav</Source>
+      <Name>Audio\Waves\Weapons\hyperspace_return</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hyperspace_return.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\pdp1_fire.wav</Source>
+      <Name>Audio\Waves\Weapons\pdp1_fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp1_fire.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\pdp3_explode.wav</Source>
+      <Name>Audio\Waves\Weapons\pdp3_explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_explode.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\pdp3_fire.wav</Source>
+      <Name>Audio\Waves\Weapons\pdp3_fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_fire.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\pdp3_fire2.wav</Source>
+      <Name>Audio\Waves\Weapons\pdp3_fire2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_fire2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\tx0_fire1.wav</Source>
+      <Name>Audio\Waves\Weapons\tx0_fire1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire1.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\tx0_fire2.wav</Source>
+      <Name>Audio\Waves\Weapons\tx0_fire2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire2.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Weapons\tx0_fire3.wav</Source>
+      <Name>Audio\Waves\Weapons\tx0_fire3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire3.xnb</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\asteroid1_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\asteroid1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid1_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\asteroid2_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\asteroid2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid2_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\mgun_proj.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\mgun_proj_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\mgun_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\mgun_proj_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_bfg.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_bfg_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p1_bfg.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_bfg_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p1_back.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_dual.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_dual_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p1_dual.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_dual_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_mgun.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_mgun_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_pea.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_pea_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_rocket.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_rocket_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p1_rocket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_rocket_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_bfg.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_bfg_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p2_back.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p2_bfg.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_bfg_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_dual.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_dual_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p2_dual.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_dual_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_mgun.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_mgun_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_pea.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_pea_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_rocket.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_rocket_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\p2_rocket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_rocket_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\pea_proj_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pea_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pea_proj_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bfg_proj.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\bfg_proj_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\bfg_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\bfg_proj_0.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_pencil.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_pencil_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pencil_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_rocket_proj.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_rocket_proj_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_saucer.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_saucer_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\saucer_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2010-12-08T12:57:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_pencil.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_pencil_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pencil_p2_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_rocket_proj.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_rocket_proj_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_saucer.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_saucer_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\saucer_p2_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p2_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\Models\p2_wedge_0.xml</Output>
+      <Time>2010-12-08T12:57:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p2_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v1_0.xnb</Output>
+      <Time>2010-12-08T12:57:54-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C3B6AE80-BB04-41F3-ABB0-1C1E7607857E}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Cursos\Videogames\Space\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Cursos\Videogames\Space\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Cursos\Videogames\Space\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-19T23:06:15.6612816-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

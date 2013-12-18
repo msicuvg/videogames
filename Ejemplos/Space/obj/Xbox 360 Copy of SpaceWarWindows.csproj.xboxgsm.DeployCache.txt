@@ -1,0 +1,325 @@
+d94e881fcda44c35b2a5588c840726e4
+0
+xboxgsm
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\
+130297425720000000
+D:\Cursos\Videogames\Space\SpacewarThumbnail.png
+2010-12-08T18:57:48.0000000Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\settings.xml
+2010-12-08T18:57:48.0000000Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\SpaceWarWindows.exe
+2013-11-24T04:56:13.0646237Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\SpaceWar.xgs
+2013-11-24T04:55:02.8931975Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\spacewar.xsb
+2013-11-24T04:55:03.0206637Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\spacewar.xwb
+2013-11-24T04:55:03.0196630Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\phase_collide_ship1.xnb
+2013-11-24T04:54:57.5839922Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\phase_collide_ship2.xnb
+2013-11-24T04:54:57.6370276Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\shield_collide_ship1.xnb
+2013-11-24T04:54:57.7060736Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Collisions\shield_collide_ship2.xnb
+2013-11-24T04:54:57.8742810Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Explosions\explosion1.xnb
+2013-11-24T04:54:57.9553363Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Explosions\explosion2.xnb
+2013-11-24T04:54:58.1444603Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Music\Menu_Loop.xnb
+2013-11-24T04:54:59.3383036Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Music\Theme.xnb
+2013-11-24T04:54:59.6054809Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\countdown_expire.xnb
+2013-11-24T04:54:59.6264949Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\countdown_warning.xnb
+2013-11-24T04:54:59.6334996Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_activate.xnb
+2013-11-24T04:54:59.6485096Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_expire.xnb
+2013-11-24T04:54:59.7195565Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\phase_expire_alt.xnb
+2013-11-24T04:54:59.7545799Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup.xnb
+2013-11-24T04:54:59.7886013Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup_alt.xnb
+2013-11-24T04:54:59.8276294Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Powerups\weapon_pickup_alt_retro.xnb
+2013-11-24T04:54:59.8616500Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\accel1_noloop.xnb
+2013-11-24T04:54:59.9987414Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_1.xnb
+2013-11-24T04:55:00.3399714Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_2.xnb
+2013-11-24T04:55:00.4870690Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Ships\engine_3.xnb
+2013-11-24T04:55:00.6992105Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_advance.xnb
+2013-11-24T04:55:00.7302311Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_back.xnb
+2013-11-24T04:55:00.7472416Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_bad_select.xnb
+2013-11-24T04:55:00.7612518Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_scroll.xnb
+2013-11-24T04:55:00.7702578Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select.xnb
+2013-11-24T04:55:00.7792638Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select2.xnb
+2013-11-24T04:55:00.7912701Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\menu_select3.xnb
+2013-11-24T04:55:00.8002778Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\UI\points_tally.xnb
+2013-11-24T04:55:00.8192884Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\damage1.xnb
+2013-11-24T04:55:00.8793305Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\damage2.xnb
+2013-11-24T04:55:01.0014098Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\explosion3.xnb
+2013-11-24T04:55:01.1084829Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire.xnb
+2013-11-24T04:55:01.2285629Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire2.xnb
+2013-11-24T04:55:01.3926736Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hax2_fire_alt.xnb
+2013-11-24T04:55:01.7369023Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hyperspace_activate.xnb
+2013-11-24T04:55:01.8249610Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\hyperspace_return.xnb
+2013-11-24T04:55:02.0371003Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp1_fire.xnb
+2013-11-24T04:55:02.2042117Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_explode.xnb
+2013-11-24T04:55:02.2862664Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_fire.xnb
+2013-11-24T04:55:02.4153529Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\pdp3_fire2.xnb
+2013-11-24T04:55:02.4934066Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire1.xnb
+2013-11-24T04:55:02.5684566Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire2.xnb
+2013-11-24T04:55:02.6435067Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Audio\Waves\Weapons\tx0_fire3.xnb
+2013-11-24T04:55:02.7205580Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\health.xnb
+2013-11-24T04:54:40.9759719Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\hud_round_button.xnb
+2013-11-24T04:54:40.9796278Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\hud_weapon_icons.xnb
+2013-11-24T04:54:41.2154940Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\in-game_Player_text.xnb
+2013-11-24T04:54:41.2330903Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\in-game_score.xnb
+2013-11-24T04:54:41.3399261Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\ingame_counter.xnb
+2013-11-24T04:54:41.3886983Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\ship_names.xnb
+2013-11-24T04:54:41.4292241Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\weapon_large_font.xnb
+2013-11-24T04:54:41.4615602Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Fonts\weapon_small_font.xnb
+2013-11-24T04:54:41.4765697Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\asteroid1.xnb
+2013-11-24T04:54:31.1850331Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\asteroid2.xnb
+2013-11-24T04:54:31.5284051Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\bfg_proj.xnb
+2013-11-24T04:54:35.2541591Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\mgun_proj.xnb
+2013-11-24T04:54:31.5670822Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_bfg.xnb
+2013-11-24T04:54:31.8412650Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_dual.xnb
+2013-11-24T04:54:32.6893620Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_mgun.xnb
+2013-11-24T04:54:33.1589798Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_pea.xnb
+2013-11-24T04:54:33.2560449Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_pencil.xnb
+2013-11-24T04:54:35.7407441Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_rocket.xnb
+2013-11-24T04:54:33.3651177Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_rocket_proj.xnb
+2013-11-24T04:54:35.8943226Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_saucer.xnb
+2013-11-24T04:54:36.1675056Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p1_wedge.xnb
+2013-11-24T04:54:36.8819840Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_bfg.xnb
+2013-11-24T04:54:33.6322162Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_dual.xnb
+2013-11-24T04:54:34.4235374Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_mgun.xnb
+2013-11-24T04:54:34.8698332Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_pea.xnb
+2013-11-24T04:54:34.9538909Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_pencil.xnb
+2013-11-24T04:54:37.3020611Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_rocket.xnb
+2013-11-24T04:54:35.0751560Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_rocket_proj.xnb
+2013-11-24T04:54:37.4701732Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_saucer.xnb
+2013-11-24T04:54:38.0595661Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\p2_wedge.xnb
+2013-11-24T04:54:38.7020564Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Models\pea_proj.xnb
+2013-11-24T04:54:35.1310796Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\backdrop.xnb
+2013-11-24T04:54:38.8896207Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\ship.xnb
+2013-11-24T04:54:38.9046286Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\simple.xnb
+2013-11-24T04:54:38.9085894Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\simplescreen.xnb
+2013-11-24T04:54:38.9134084Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\Shaders\sun.xnb
+2013-11-24T04:54:38.9184117Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid1.xnb
+2013-11-24T04:54:41.5350318Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid1N.xnb
+2013-11-24T04:54:41.7491750Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid1_0.xnb
+2013-11-24T04:54:31.5073937Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid2.xnb
+2013-11-24T04:54:41.8112163Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\asteroid2_0.xnb
+2013-11-24T04:54:31.5600771Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\B1_nebula01.xnb
+2013-11-24T04:54:42.3375672Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\B1_nebula02.xnb
+2013-11-24T04:54:42.9316175Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\B1_stars.xnb
+2013-11-24T04:54:44.1097748Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\bfg_proj.xnb
+2013-11-24T04:54:44.1137783Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\bfg_proj_0.xnb
+2013-11-24T04:54:35.2574224Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\Black.xnb
+2013-11-24T04:54:44.1167794Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\circle.xnb
+2013-11-24T04:54:44.1197810Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\in-game_score_overlay.xnb
+2013-11-24T04:54:44.1977557Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\info_screen.xnb
+2013-11-24T04:54:44.7605471Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\mgun_proj.xnb
+2013-11-24T04:54:44.7635491Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\mgun_proj_0.xnb
+2013-11-24T04:54:31.5690835Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back.xnb
+2013-11-24T04:54:44.9072115Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_back_0.xnb
+2013-11-24T04:54:31.9292305Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_bfg.xnb
+2013-11-24T04:54:45.0399902Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_bfg_0.xnb
+2013-11-24T04:54:31.8856822Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_dual.xnb
+2013-11-24T04:54:45.1942050Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_dual_0.xnb
+2013-11-24T04:54:32.7336967Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_reflection_cubemap.xnb
+2013-11-24T04:54:39.6610821Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_rocket.xnb
+2013-11-24T04:54:45.3392949Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p1_rocket_0.xnb
+2013-11-24T04:54:33.4150736Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back.xnb
+2013-11-24T04:54:45.5068527Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_back_0.xnb
+2013-11-24T04:54:33.6779010Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_bfg.xnb
+2013-11-24T04:54:45.6649590Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_bfg_0.xnb
+2013-11-24T04:54:33.7260703Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_dual.xnb
+2013-11-24T04:54:45.8235156Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_dual_0.xnb
+2013-11-24T04:54:34.4685674Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_reflection_cubemap1.xnb
+2013-11-24T04:54:40.2217122Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_reflection_cubemap2.xnb
+2013-11-24T04:54:40.9477826Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_rocket.xnb
+2013-11-24T04:54:45.9743494Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\p2_rocket_0.xnb
+2013-11-24T04:54:35.1240741Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pea_proj.xnb
+2013-11-24T04:54:45.9792018Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pea_proj_0.xnb
+2013-11-24T04:54:35.1340794Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v1.xnb
+2013-11-24T04:54:46.0772668Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v1_0.xnb
+2013-11-24T04:54:35.8032623Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v2.xnb
+2013-11-24T04:54:46.1858456Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p1_diff_v3.xnb
+2013-11-24T04:54:46.2979173Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v1.xnb
+2013-11-24T04:54:46.4059915Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v1_0.xnb
+2013-11-24T04:54:37.3711071Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v2.xnb
+2013-11-24T04:54:46.5183318Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\pencil_p2_diff_v3.xnb
+2013-11-24T04:54:46.6253424Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\retro_backdrop.xnb
+2013-11-24T04:54:47.3043588Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\rocket_proj.xnb
+2013-11-24T04:54:47.3439069Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v1.xnb
+2013-11-24T04:54:47.4379696Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v1_0.xnb
+2013-11-24T04:54:36.2345481Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v2.xnb
+2013-11-24T04:54:47.5380479Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p1_diff_v3.xnb
+2013-11-24T04:54:47.6547779Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v1.xnb
+2013-11-24T04:54:47.7428374Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v1_0.xnb
+2013-11-24T04:54:38.1266715Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v2.xnb
+2013-11-24T04:54:47.8348996Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\saucer_p2_diff_v3.xnb
+2013-11-24T04:54:47.9259578Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\ship_select_FINAL.xnb
+2013-11-24T04:54:50.6022783Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\Spacewar_Title_FINAL.xnb
+2013-11-24T04:54:51.9290098Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\suntest1.xnb
+2013-11-24T04:54:52.0280746Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\suntest2.xnb
+2013-11-24T04:54:52.1261400Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\suntest3.xnb
+2013-11-24T04:54:52.2282097Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\suntest4.xnb
+2013-11-24T04:54:52.3275943Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\suntest5.xnb
+2013-11-24T04:54:52.4242964Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\thrust_stripSmall.xnb
+2013-11-24T04:54:52.5190121Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\Title_button_overlay.xnb
+2013-11-24T04:54:52.7591752Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\victory.xnb
+2013-11-24T04:54:54.4482513Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\weapon_select_FINAL.xnb
+2013-11-24T04:54:56.7792228Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1.xnb
+2013-11-24T04:54:56.8852935Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+2013-11-24T04:54:36.9468243Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v2.xnb
+2013-11-24T04:54:56.9963740Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p1_diff_v3.xnb
+2013-11-24T04:54:57.1099518Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v1.xnb
+2013-11-24T04:54:57.2120220Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v1_0.xnb
+2013-11-24T04:54:38.7687585Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v2.xnb
+2013-11-24T04:54:57.3246971Z
+D:\Cursos\Videogames\Space\bin\Xbox 360\Debug\Content\textures\wedge_p2_diff_v3.xnb
+2013-11-24T04:54:57.4247638Z

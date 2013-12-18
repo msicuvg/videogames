@@ -1,0 +1,16 @@
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer1.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer2.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer3.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer4.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer5.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer6.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer7.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer8.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer9.xnb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\ParallaxScrolling.exe.config
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\ParallaxScrolling.exe
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\ParallaxScrolling.pdb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\obj\Xbox 360\Debug\ParallaxScrolling.exe
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\obj\Xbox 360\Debug\ParallaxScrolling.pdb
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\obj\Xbox 360\Debug\Xbox 360 Copy of ParallaxScrolling.csprojResolveAssemblyReference.cache

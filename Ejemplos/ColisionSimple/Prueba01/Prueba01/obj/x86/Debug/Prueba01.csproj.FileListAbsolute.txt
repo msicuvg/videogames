@@ -1,0 +1,50 @@
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Azul.xnb
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Azul.xnb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Azul.xnb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Rojo.xnb
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Neutral.xnb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Azul.xnb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Rojo.xnb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Content\Texturas\Neutral.xnb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Prueba01.exe
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\bin\x86\Debug\Prueba01.pdb
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Prueba01.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Prueba01.exe
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01\obj\x86\Debug\Prueba01.pdb

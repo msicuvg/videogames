@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Prueba01\Prueba01\Prueba01Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Prueba00\Prueba01\Prueba01Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\Necro Games\Prueba00\Prueba01\Prueba01Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Necro Games\Prueba01 - MovObjeto\Prueba01\Prueba01Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Necro Games\Prueba02 - ColisionSimple\Prueba01\Prueba01Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\Prueba02 - ColisionSimple\Prueba01\Prueba01Content\obj\x86\Debug\Prueba01Content.contentprojResolveAssemblyReference.cache

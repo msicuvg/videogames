@@ -1,0 +1,29 @@
+e9483911b16b4d0cb0a1bc18eb3510a7
+0
+xboxservkey
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\
+130310399120000000
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\GameThumbnail.png
+2013-10-26T19:25:46.0000000Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\ParallaxScrolling.exe
+2013-12-09T05:23:02.9317146Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\ParallaxScrolling.exe.config
+2013-10-26T19:25:46.0000000Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer1.xnb
+2013-12-09T05:17:09.6558954Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer2.xnb
+2013-12-09T05:17:10.5234754Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer3.xnb
+2013-12-09T05:17:11.4110666Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer4.xnb
+2013-12-09T05:17:12.4337493Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer5.xnb
+2013-12-09T05:17:13.4204100Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer6.xnb
+2013-12-09T05:17:14.3220110Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer7.xnb
+2013-12-09T05:17:15.1595688Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer8.xnb
+2013-12-09T05:17:16.2793163Z
+D:\Cursos\Videogames\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrolling\bin\Xbox 360\Debug\Content\Layer9.xnb
+2013-12-09T05:17:17.3540349Z
