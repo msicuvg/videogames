@@ -1,0 +1,21 @@
+10e98408bf11479dad4a673b9b10aef0
+0
+xboxservkey
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\
+130310402260000000
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\GameThumbnail.png
+2008-09-20T22:18:24.0000000Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\ScrollingA2DBackground.exe
+2013-12-09T05:24:19.9211062Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background01.xnb
+2013-12-09T05:23:59.7536453Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background02.xnb
+2013-12-09T05:23:59.9427724Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background03.xnb
+2013-12-09T05:24:00.1338987Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background04.xnb
+2013-12-09T05:24:00.3390352Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background05.xnb
+2013-12-09T05:24:00.5291617Z
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\SquareGuy.xnb
+2013-12-09T05:24:00.5571817Z

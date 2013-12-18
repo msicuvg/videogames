@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScrollingA2DBackground">
+</Property><Property Name="Solution File" Value="D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground.sln">
+</Property><Property Name="User Options File" Value="D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground.suo">
+</Property><Property Name="Date" Value="domingo, 8 de diciembre de 2013">
+</Property><Property Name="Time" Value="22:37 p. m.">
+</Property><Property Name="Solution" Value="ScrollingA2DBackground">
+</Property><Property Name="Solution File" Value="D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground.sln">
+</Property><Property Name="Date" Value="domingo, 8 de diciembre de 2013">
+</Property><Property Name="Time" Value="22:37:54 p. m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ScrollingA2DBackground.sln" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ScrollingA2DBackground.suo" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground.suo">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Project file successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\ScrollingA2DBackground.csproj">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj.user" Description="Project user file successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\ScrollingA2DBackground.csproj.user">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\Program.cs" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\Program.cs">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\Game1.cs" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\Game1.cs">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\Sprite.cs" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\Game.ico" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\Game.ico">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\GameThumbnail.png" Description="File successfully backed up as D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\Backup\ScrollingA2DBackground\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScrollingA2DBackground.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ScrollingA2DBackground.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackground" Source="ScrollingA2DBackground\ScrollingA2DBackground.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Background01.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Background02.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Background03.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Background04.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Background05.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SquareGuy.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="ScrollingA2DBackgroundContent" Source="ScrollingA2DBackground\Content\ScrollingA2DBackgroundContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

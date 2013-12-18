@@ -1,0 +1,12 @@
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background01.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background02.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background03.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background04.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\Background05.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\Content\SquareGuy.xnb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\ScrollingA2DBackground.exe
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\bin\Xbox 360\Debug\ScrollingA2DBackground.pdb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\obj\Xbox 360\Debug\ScrollingA2DBackground.exe
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\obj\Xbox 360\Debug\ScrollingA2DBackground.pdb
+D:\Cursos\Videogames\Scrolling\ScrollingA2DBackground\ScrollingA2DBackground\obj\Xbox 360\Debug\Xbox 360 Copy of ScrollingA2DBackground.csprojResolveAssemblyReference.cache
