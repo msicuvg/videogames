@@ -1,0 +1,8 @@
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\bin\Xbox 360\Debug\Content\Textures\Background.xnb
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\bin\Xbox 360\Debug\Content\Textures\Tile_Sheet.xnb
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\bin\Xbox 360\Debug\Content\Textures\TitleScreen.xnb
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\bin\Xbox 360\Debug\Flood Control.exe
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\bin\Xbox 360\Debug\Flood Control.pdb
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\obj\Xbox 360\Debug\Flood Control.exe
+D:\Cursos\Videogames\content\Chapter02\Code\Flood Control\Flood Control\Flood Control\obj\Xbox 360\Debug\Flood Control.pdb
